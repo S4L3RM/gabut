@@ -1,0 +1,20 @@
+$ pkg update && pkg upgrade
+
+$ pkg install git
+
+$ pkg install python2
+
+$ pkg install php
+
+$ pkg install ruby && gem install lolcat
+
+$ git clone https://github.com/pengangguranmuda/NewsX
+
+$ ls
+$ cd NewsX
+$ ls
+$ chmod +x newsx.sh
+$ ls
+$ sh newsx.sh
+
+SUBSCRIBE LAH SOB GRATIS KOK KAGA BAYAR:)
